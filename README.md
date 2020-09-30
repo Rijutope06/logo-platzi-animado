@@ -1,1 +1,1 @@
-# logo-platzi-nimado
+# logo-platzi-animado
