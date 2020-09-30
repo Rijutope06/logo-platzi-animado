@@ -1,1 +1,1 @@
-# logo-platzia-nimado
+# logo-platzi-nimado
