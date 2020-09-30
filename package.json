@@ -1,0 +1,12 @@
+{
+  "name": "logoplatzi",
+  "version": "1.0.0",
+  "description": "logo de platzi animado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "animate": "node index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
